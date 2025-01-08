@@ -1,4 +1,4 @@
-## Hi, lixneo here.
+## Hi, shuaiserious here.
 
 #### Platform&Tools
 
@@ -30,7 +30,7 @@
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
-![](https://img.shields.io/badge/lixneo%20❤️-FFF?style=flat-square)
+![](https://img.shields.io/badge/shuaiserious%20❤️-FFF?style=flat-square)
 ![](https://img.shields.io/badge/Rust-E34F26?style=flat-square&logo=Rust&logoColor=ffffff)
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 
